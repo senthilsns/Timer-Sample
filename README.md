@@ -1,4 +1,4 @@
-# Timer-Sample-
+# Timer-Sample
 Xamarin.iOS 
 
 
